@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Ashutosh Malviya, Software Engineer at Oracle, currently residing in Bangalore, Karnataka (India). I have 1.5yr of experience in Backend Development.
+I am Ashutosh Malviya, Software Engineer at Oracle, currently residing in Bangalore, Karnataka (India). I have 2 yr of experience in Backend Development.
 
 - 🌱 I’m currently learning back-end web development and ML/DL.
 
